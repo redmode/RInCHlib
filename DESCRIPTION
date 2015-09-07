@@ -1,0 +1,10 @@
+Package: RInCHlib
+Type: Package
+Title: R bindings to InCHlib
+Version: 0.0.1
+Author: Alexander Gedranovich <gedranovich@gmail.com>
+Maintainer: Alexander Gedranovich <gedranovich@gmail.com>
+Description: R bindings to InCHlib
+Depends: R (>= 3.2.1), plyr, htmltools, htmlwidgets, jsonlite, magrittr, stringi, dplyr
+License: MIT
+LazyData: true

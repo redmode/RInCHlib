@@ -1,0 +1,8 @@
+dependencies:
+  - name: inchlib
+    version: 1.2.0
+    src: htmlwidgets/lib/inchlib-1.2.0
+    script:
+      - plugins/jquery-2.0.3.min.js
+      - plugins/kinetic-v5.1.0.min.js
+      - inchlib-1.2.0.min.js
