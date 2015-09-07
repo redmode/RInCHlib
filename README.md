@@ -1,5 +1,7 @@
 # README
 
+This project is port of beautiful **InChlib** library (http://openscreen.cz/software/inchlib/home/) to R. Currently is in heavy development.
+
 ## Installation
 
 ```{r}
