@@ -15,7 +15,7 @@ InCHlib <- function(filename, width = NULL, height = NULL) {
     x,
     width = width,
     height = height,
-    package = 'InCHlib'
+    package = 'RInCHlib'
   )
 }
 
